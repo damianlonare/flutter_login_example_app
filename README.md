@@ -1,4 +1,4 @@
-# counter_app
+# Flutter login page example app
 
 A new Flutter project.
 
